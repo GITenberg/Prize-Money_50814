@@ -1,10 +1,16 @@
 _repo: Prize-Money_50814
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50814-h/images/cover.jpg
 creator:
   author:
     agent_name: Wright, Philip Quincy
     gutenberg_agent_id: '46097'
     url: http://www.gutenberg.org/2009/agents/46097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50814#Prize-Money
 gutenberg_issued: '2016-01-01'
 gutenberg_type: Text
 identifiers:
